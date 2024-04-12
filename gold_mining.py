@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18fQ9-htc8G_TMObMHih8dON8_YDUUUkO
 """
 
-!pip install tensorflow -qqq
-!pip install keras -qqq
-!pip install yfinance -qqq
-!pip install mplfinance -qqq
-
 import tensorflow as tf
 import yfinance as yf
 import numpy as np
